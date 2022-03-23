@@ -19,7 +19,7 @@
 
 
 # Dia 1
-1. [x]Criação do projeto
+1. [x] Criação do projeto
 2. [x] Implementação da tela SignIn
 3. [x] Implementação do formulário
 
