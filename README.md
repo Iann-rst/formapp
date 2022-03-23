@@ -24,8 +24,8 @@
 3. [x] Implementação do formulário
 
 # Dia 2
-1. [] Uso do react-hook-form / useForm
+1. [ ] Uso do react-hook-form / useForm
     - Hook para formulário
-2. [] Yup
+2. [ ] Yup
     - Validação dos dados de input do formulário
 
