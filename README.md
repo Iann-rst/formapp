@@ -17,3 +17,15 @@
   - Hook-Form
     - `yarn add react-hook-form`
 
+
+# Dia 1
+1. [x]Criação do projeto
+2. [x] Implementação da tela SignIn
+3. [x] Implementação do formulário
+
+# Dia 2
+1. [] Uso do react-hook-form / useForm
+    - Hook para formulário
+2. [] Yup
+    - Validação dos dados de input do formulário
+
