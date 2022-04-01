@@ -9,7 +9,7 @@ export type InputProp = TextInputProps & {
   value?: string;
 }
 
-export default function Input({ icon, value, ...rest }: InputProp) {
+export function Input({ icon, value, ...rest }: InputProp) {
   const [isFocused, setIsFocused] = useState(false)
   const [isFilled, setIsFilled] = useState(false)
 
