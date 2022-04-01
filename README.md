@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/48128325/159810868-c285e9e6-e022-4338-91e3-120c9c4524ce.jpeg" height="500"/>
 </p>
 
-### Formulário com react0hook-form e yup (para validação)
+### Formulário com react-hook-form e yup (para validação)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48128325/161343818-b5f77719-e716-4cb2-9c17-57cdd00e7e8e.jpeg" height=500"/>
 </p>
