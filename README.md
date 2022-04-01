@@ -24,11 +24,11 @@
 3. [x] Implementação do formulário
 
 # Dia 2
-1. [ ] Uso do react-hook-form / useForm
+1. [x] Uso do react-hook-form / useForm
     - Hook para formulário
       - `yarn add react-hook-form`
 
-2. [ ] Yup
+2. [x] Yup
     - Validação dos dados de input do formulário
       - `yarn add @hookform/resolvers yup`
 
