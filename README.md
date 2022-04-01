@@ -26,6 +26,11 @@
 # Dia 2
 1. [ ] Uso do react-hook-form / useForm
     - Hook para formulário
+    </br>
+    `yarn add react-hook-form`
+
 2. [ ] Yup
     - Validação dos dados de input do formulário
+    </br>
+    `yarn add @hookform/resolvers yup`
 
