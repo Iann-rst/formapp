@@ -8,7 +8,7 @@
 
 ### Formulário com react-hook-form e yup (para validação)
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48128325/161343818-b5f77719-e716-4cb2-9c17-57cdd00e7e8e.jpeg" height=500"/>
+  <img src="https://user-images.githubusercontent.com/48128325/161343818-b5f77719-e716-4cb2-9c17-57cdd00e7e8e.jpeg" height="500"/>
 </p>
 
 
